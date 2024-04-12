@@ -37,3 +37,9 @@ or
 yarn dev
 
 2. Open your browser and navigate to 'http://localhost:5174/' to view the app.
+
+## Contributing 
+Contributions are welcome! If you'd like to add new features, fix bugs, or improve the documentation, feel free to fork this repository and submit a pull request.
+
+## Credits
+* YouTuber [Web Dev Simplified](@WebDevSimplified)
