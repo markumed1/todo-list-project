@@ -41,5 +41,5 @@ yarn dev
 ## Contributing 
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve the documentation, feel free to fork this repository and submit a pull request.
 
-## Credits
+## Acknowledgements
 * YouTuber [Web Dev Simplified](@WebDevSimplified)
